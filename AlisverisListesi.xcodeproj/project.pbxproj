@@ -14,6 +14,7 @@
 		4F10CBDE2A93B6030026BF5E /* AlisverisListesi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4F10CBDC2A93B6030026BF5E /* AlisverisListesi.xcdatamodeld */; };
 		4F10CBE02A93B6040026BF5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F10CBDF2A93B6040026BF5E /* Assets.xcassets */; };
 		4F10CBE32A93B6040026BF5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F10CBE12A93B6040026BF5E /* LaunchScreen.storyboard */; };
+		4F10CBEB2A93B7BD0026BF5E /* ToDetayVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F10CBEA2A93B7BD0026BF5E /* ToDetayVCViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4F10CBDF2A93B6040026BF5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F10CBE22A93B6040026BF5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F10CBE42A93B6040026BF5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F10CBEA2A93B7BD0026BF5E /* ToDetayVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDetayVCViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				4F10CBD32A93B6030026BF5E /* AppDelegate.swift */,
 				4F10CBD52A93B6030026BF5E /* SceneDelegate.swift */,
+				4F10CBEA2A93B7BD0026BF5E /* ToDetayVCViewController.swift */,
 				4F10CBD72A93B6030026BF5E /* ViewController.swift */,
 				4F10CBD92A93B6030026BF5E /* Main.storyboard */,
 				4F10CBDF2A93B6040026BF5E /* Assets.xcassets */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F10CBDE2A93B6030026BF5E /* AlisverisListesi.xcdatamodeld in Sources */,
+				4F10CBEB2A93B7BD0026BF5E /* ToDetayVCViewController.swift in Sources */,
 				4F10CBD82A93B6030026BF5E /* ViewController.swift in Sources */,
 				4F10CBD42A93B6030026BF5E /* AppDelegate.swift in Sources */,
 				4F10CBD62A93B6030026BF5E /* SceneDelegate.swift in Sources */,
